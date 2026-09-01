@@ -55,7 +55,7 @@ int main() {
             default:
                 dont_output = true;
                 std::cout << "I got not a clue what you could have put in here." << std::endl;
-                current_calc = 0;
+                current_calc = -1;
                 break;
         }
 
