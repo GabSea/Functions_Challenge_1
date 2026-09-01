@@ -1,6 +1,4 @@
 #include <iostream>
-#include <cmath>
-#include <limits>
 #include "Calculations.h"
 
 int current_calc = -1;
